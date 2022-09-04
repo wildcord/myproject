@@ -1,0 +1,17 @@
+header {
+  background-color: blue;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+}
+body div header {
+  color: aqua;
+}
+
+.red {
+  color: red;
+}
